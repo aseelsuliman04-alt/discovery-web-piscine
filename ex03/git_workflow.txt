@@ -1,0 +1,4 @@
+1.edit:nano ex3/READM.md
+2.add: git add
+3.commit: git commit -m "complete ex03 "
+4.push: git push origin main 
